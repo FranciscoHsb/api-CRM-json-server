@@ -1,0 +1,20 @@
+{
+  "clientes": [
+    {
+      "nombre": "francisco pinochet",
+      "empresa": "agtec",
+      "email": "francisco.-pinochet@hotmail.com",
+      "telefono": "45359775",
+      "notas": "estudiando reactjs\n",
+      "id": 1
+    },
+    {
+      "nombre": "comida2222",
+      "empresa": "RIOTGAME",
+      "email": "pinocho_x.sk8@hotmail.xom",
+      "telefono": "1111111",
+      "notas": "troll",
+      "id": 2
+    }
+  ]
+}
