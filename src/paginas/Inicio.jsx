@@ -20,7 +20,7 @@ const Inicio = () => {
   }, [])
 
   const handleEliminar = async (id) => {
-    const url = `http://localhost:4000/clientes/${id}`
+    const url = `${import.meta.env.VITE_URL_API}${id}`
     const respuesta = await fetch(url,{
       method: 'DELETE'
     })
